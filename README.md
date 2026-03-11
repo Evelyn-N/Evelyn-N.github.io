@@ -8,11 +8,11 @@ Engineering student with 4 years of professional project management and consulti
 ---
 
 ## EDUCATION
-* **University of Colorado Boulder** | Master of Science in Electrical and Computer Engineering | *Expected 2028*
-* **Cornell University** | Graduate Certificate in Systems Engineering | *2025*
-* **College of the Canyons** | Associates of Engineering and Cybersecurity | *Expected 2027*
-* **University of California Davis** | Master of Science in Soils and Biogeochemistry | *2019*
-* **Kansas State University** | Bachelor of Science in Agronomy | *2015*
+* **University of Colorado Boulder** \| Master of Science in Electrical and Computer Engineering \| *Expected 2028*
+* **Cornell University** \| Graduate Certificate in Systems Engineering \| *2025*
+* **College of the Canyons** \| Associates of Engineering and Cybersecurity \| *Expected 2027*
+* **University of California Davis** \| Master of Science in Soils and Biogeochemistry \| *2019*
+* **Kansas State University** \| Bachelor of Science in Agronomy \| *2015*
 
 ---
 
@@ -40,18 +40,18 @@ Engineering student with 4 years of professional project management and consulti
 ## WORK EXPERIENCE
 
 ### Resource Conservation District of Monterey County
-**Agroecology Team Coordinator** | Salinas, CA | *Oct 2023 – April 2025*
+**Agroecology Team Coordinator** \| Salinas, CA \| *Oct 2023 – April 2025*
 * **Project & Contract Management:** Managed 25–30 projects; oversaw budget development, grant compliance, and milestone tracking.
 * **Cross-Functional Coordination:** Facilitated a multi-agency team to develop a new research and outreach program.
 * **Technical Writing:** Authored implementation plans, technical specifications, and SOPs for field technicians.
 
 ### Nordberg Ag Consulting
-**Freelance Technical Service Provider** | Remote | *March 2023 – Oct 2023*
+**Freelance Technical Service Provider** \| Remote \| *March 2023 – Oct 2023*
 * **Market Research & Trade Studies:** Conducted market research and technical trade studies for agricultural technologies and environmental practices.
 * **Business Development:** Cultivated a network of clients and authored grant applications to secure project-specific funding.
 
 ### United States Department of Agriculture
-**Agronomist / Soil Conservationist** | Salinas, CA & Paragould, AR | *Sept 2020 – March 2023*
+**Agronomist / Soil Conservationist** \| Salinas, CA & Paragould, AR \| *Sept 2020 – March 2023*
 * **Technical Consulting:** Acted as technical consultant to identify root-cause issues and develop solutions for complex environmental projects.
 * **Contract Management:** Managed portfolio of 30-40 contracts, ensuring legal compliance and contract adherence.
 * **Stakeholder Engagement:** Cultivated relationships with policymakers and industry experts to align project goals with federal initiatives.
