@@ -1,5 +1,4 @@
 # Evelyn Nordberg
-**Canyon Country, CA | 315-663-8210 | [evecnord@gmail.com](mailto:evecnord@gmail.com)**
 
 ---
 
